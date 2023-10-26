@@ -1,146 +1,29 @@
-# SC17 Birds of a Feather - HPC Carpentry: Practical, Hands-on HPC Training
+# RSECon23 Birds of a Feather - HPC
 
-Took place SC17, Denver on **Tuesday, November 14th, 17:15 - 19:00, Rooms 301-303**
+Took place RSECon23, Swansea on **Wednesday, Septemeber 6th, 09:00 - 12:30**
 
-[http://sc17.supercomputing.org/presentation/?id=bof125&sess=sess359](http://sc17.supercomputing.org/presentation/?id=bof125&sess=sess359)
+[https://virtual.oxfordabstracts.com/#/event/4430/program?session=76243&s=2514](https://virtual.oxfordabstracts.com/#/event/4430/program?session=76243&s=2514)
 
 ## Session Report
 
-The BoF session was written up:
+A report on the BoF session will be available soon
 
-* [HPC Carpentry SC17 BoF Report]({{ site.baseurl }}/pdf/sc17-hpccarpentry-bof-report.pdf)
+## Slides
 
-## Agenda
+* [UK Exascale: Prof. Mark Parsons]({{ site.baseurl }}/pdf/UKExascaleProjectRSECon_Public_2023096.pdf)
 
-* 17:15	Introduction: Andy Turner
-  + [Link to Slides]({{ site.baseurl }}/Presentations/SC17_HPCCarpentry_BoF_Intro_AndyT.pdf)
-* 17:20 Activity: What do you want to get out of this BoF?
-  + [Link to Q&A](https://qna.live/sc17/Ym9mMTI1/)
-* 17:25	What is Carpentry?, Target audiences: Christina Koch
-  + [Link to slides]({{ site.baseurl }}/Presentations/SC17_HPCCarpentry_BoF_CarpentryLearners_ChristinaK.pdf)
-* 17:35 Activity: Learner profiles
-  + [Discussion Notes Documents](#discussion-notes)
-* 18:00 Lessons and structure: Bob Freeman
-  + [Link to slides]({{ site.baseurl }}/Presentations/SC17_HPCCarpentry_BoF_Lessons_BobF.pdf)
-* 18:05 Activity: Course and module design
-  + [Link to example workshop lessons]({{ site.baseurl }}/Presentations/SC17_HPCCarpentry_BoF_Example_Lessons.pdf)
-  + [Discussion Notes Documents](#discussion-notes)
-* 18:30 Ongoing support: Andy Turner
-  + [Link to slides]({{ site.baseurl }}/Presentations/SC17_HPCCarpentry_BoF_Support_AndyT.pdf)
-* 18:35 Activity: What ongoing support is needed/available?
-  + [Discussion Notes Documents](#discussion-notes)
-* 18:50 Wrap up and next steps
-* 19:00 Finish
+## Session description
 
-## Goals of session
+RSEs are critical to the effective use of HPC facilities by researchers - they cover the whole range of roles from RSEs embedded in research groups who support the development of software used on HPC facilities to RSEs associated with HPC facility support teams. In this session we will bring together RSEs that are involved with HPC to share knowledge about the current “state-of-the- nation” for RSEs and HPC, discuss topics of interest in the community and find ways to improve the organisation of the RSE HPC community for the future. The session will start with a series of 4-6 lightning presentations on key areas of current interest for the RSE HPC community. This will be followed by group discussion on the topics of interest to the attendees. Finally, all attendees will work together to produce an outline plan for ways to improve the organisation of the RSE HPC community. Based on discussions with colleagues across the HPC RSE community, we have identified the following topics to be covered in the lightning talks:
 
-As more and more research comes to depend on the use of high performance computing to
-progress, there is a clear need to equip researchers with the basic, practical skills
-so they can exploit HPC resources in an effective way. These skills are particularly
-important for people just getting started with high throughput and high performance
-computing, as they make researchers more effective and make the most efficient use of
-resources. Given the success of the Carpentry series in equipping researchers with the
-basic, practical skills required to manage and develop their software and scripts
-([Software Carpentry](https://software-carpentry.org/)) and data analysis
-([Data Carpentry](http://www.datacarpentry.org/)) it is natural to take the
-Carpentry approach and apply it to HPC.
+* UK Exascale - following the recent UK Government announcement, where do RSEs fit and what are their key roles in making UK exascale as beneficial as possible for research?
+* Community benchmarking - how can the community build on the work done by the ExCALIBUR benchmarking team to reflect the requirements of HPC for UK research?
+* Future technologies - how can RSEs support researchers in preparing applications for the next generation of HPC hardware?
+* RSE HPC training - how can RSEs access training to improve their HPC skills and what training is required by the community?
 
-In this BOF we will gather input from the experts in the HPC community on the Goals, Design,
-Structure and Implementation of HPC Carpentry. We aim to cover the following topics:
+In order to improve the organisation of the UK RSE HPC community (and its links worldwide) a number of actions need to be undertaken that can be bootstrapped by this session. In particular, working to identify existing UK RSE HPC groupings, formulating plans for future UK RSE HPC events (including topics of interest and submissions to future conferences) and identifying options for enabling a network of expertise in the RSE HPC area.
 
-* Goals
-  + Who are the target audiences for HPC Carpentry?
-  + What should the learning outcomes be?
-* Design
-  + What lessons should be included?
-  + How much modularity do we want?
-  + How (if any) much site/facility specific material would be needed?
-* Structure
-  + How long should the course last? Should we support different lengths?
-  + Balance of practical, side-along training to lectures
+The outcomes of the session will be:
 
-The ideas and discussion from this BOF will be used to produce a public report describing
-the key areas of development for HPC Carpentry and this will provide the base for 
-the development of the first version of the training. In addition, all BOF attendees 
-will be invited to join the HPC Carpentry discussion forum on Google Groups to
-continue providing input to development of HPC Carpentry.
-
-We plan to run the first instances of HPC Carpentry before SC'18 and will submit
-a follow-on BOF to continue the community development of HPC Carpentry by sharing
-experiences from the initial events.
-
-## Useful links
-
-* [HPC in a Day carpentry lesson prototype](http://swcarpentry.github.io/hpc-novice/)
-  + [Associated Github repo](https://github.com/swcarpentry/hpc-novice)
-* [Initial list of UK HPC training at HPC-UK](http://www.hpc-uk.ac.uk/training/)
-* [ARCHER HPC training course routes flowchart](http://www.archer.ac.uk/training/courses/#routes)
-
-## Activities
-
-This section has now been updated with analysis of the activity outputs
-
-### What do you want to get out of this BoF?
-
-1. Votes: 33 Understand requirements for HPC Carpentry training from HPC community
-2. Votes: 19 Come to some sort of consensus on a curriculum for HPCCarpentry
-3. Votes: 18 What is HPC Carpentry?
-4. Votes: 17 What audience are you designing your curriculum for? Very introductory like Software Carpentry (i.e. what is git? --> what is MPI?)
-5. Votes: 15 Determine best practices for HPC carpentry sessions (tools or resources that can be used)
-6. Votes: 13 What is the current state of HPC carpentry?
-7. Votes: 12 Build links with interested people to help build the most useful HPC Carpentry training
-8. Votes: 7 Engage wider HPC community with HPC Carpentry activities
-9. Votes: 6 What is HPC carpentry ?
-10. Votes: 5 Provide input on HPC Carpentry curriculum.
-11. Votes: 3 Propose HPC carpentry as a home for links to vetted and useful training, such as that published by TACC or Shodor.
-12. Votes: 2 What ideas, decisions and processes can I walk away from the BoF with that will improve my code craftsmanship going forward?
-13. Votes: 1 The software carpentry learner profile example: https://software-carpentry.org/audience/
-14. Votes: 1 Understand what HPC Programing actually is? Is it multi-threaded, multi-node, GPU/Accelerators ? A hybrid of all three?
-15. Votes: -4 What languages should we focus on for HPC Carpentry?
-
-### Analysis of exercise outputs
-
-* [Analysis of the exercise outputs]({{ site.baseurl }}/outputs.html)
-
-### Discussion Notes
-
-The raw notes from the discussion groups
-
-* [Group 1 Notes](https://docs.google.com/document/d/1tNUdl913eAGGREdAQTT5QuWyO7PVAx3dxddeL4xC7ig/edit?usp=sharing)
-* [Group 2 Notes](https://docs.google.com/document/d/1Rceo3gEh_CXYmKTeZPzxJbfqWrULKuZ-gBuESeyIN4Y/edit?usp=sharing)
-* [Group 3 Notes](https://docs.google.com/document/d/15reDV1Kc5lqxOBxydHNTzbm6F6WGvyKdWyzQSWjL8Ek/edit?usp=sharing)
-* [Group 4 Notes](https://docs.google.com/document/d/1Mqlknp2FJxoPzmYdBjsIMN20SiJfCC8CZtJy4usFFyA/edit?usp=sharing)
-* [Group 5 Notes](https://docs.google.com/document/d/1PLXuI8FCSyEzzmRc5DXwQwnkUnCvgfbUHEN8l3aehxE/edit?usp=sharing)
-
-### Learner profiles
-
-In this activity, the discussion groups will design and discuss learner profiles for 
-HPC Carpentry courses to get an understanding of who HPC Carpentry should be targetting
-and what they should learn from the course.
-
-### Course and module design
-
-Discussion groups will work to design an HPC Carpentry course and specify which modules
-should be included to understand what formats HPC Carpentry could be presented in and 
-what different lessons/modules need to be included and in what order.
-
-### Ongoing Support and Community Integration
-
-Groups will work to understand what ongoing support and integration is currently available
-and what is missing to understand hwo we can maximise the impact of HPC Carpentry on
-learners and where it fits in the wider HPC training landscape.
-
-## Session leaders
-
-This Birds of a Feather session was organized by:
-
-* [Andy Turner](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=andrew&ln=turner&uid=712473), Edinburgh Parallel Computing Centre
-* [Christina Koch](http://sc17.supercomputing.org/?post_type=page&p=5406&fn=christina&ln=koch&uid=109963), University of Wisconsin
-* [Tracy Teal](http://sc17.supercomputing.org/?post_type=page&p=5406&fn=tracy&ln=teal&uid=295473), Data Carpentry
-* [Robert Freeman Jr](http://sc17.supercomputing.org/?post_type=page&p=5406&fn=robert&ln=freeman_jr&uid=395473), Harvard University
-* [Chris Bording](http://sc17.supercomputing.org/?post_type=page&p=5406&fn=chris&ln=bording&uid=041573), Pawsey Supercomputing Centre
-* [Martin Callaghan](http://sc17.supercomputing.org/?post_type=page&p=5406&fn=martin&ln=callaghan&uid=141573), University of Leeds
- 
-### Code of Conduct
- 
-All participants are reminded that their involvement in this session is covered by the [SC17 Code of Conduct](http://sc17.supercomputing.org/attendees/code-of-conduct/).
+* A blog post or report on the BoF.
+* A draft plan for improving the organisation of the UK RSE HPC community.
