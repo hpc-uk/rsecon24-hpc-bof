@@ -1,6 +1,6 @@
 # RSECon23 Birds of a Feather - HPC
 
-Took place RSECon23, Swansea on **Wednesday, Septemeber 6th, 09:00 - 12:30**
+Took place at [RSECon23, Swansea](https://rsecon23.society-rse.org/) on **Wednesday, Septemeber 6th, 09:00 - 12:30**
 
 [https://virtual.oxfordabstracts.com/#/event/4430/program?session=76243&s=2514](https://virtual.oxfordabstracts.com/#/event/4430/program?session=76243&s=2514)
 
