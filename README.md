@@ -6,7 +6,7 @@ Took place at [RSECon23, Swansea](https://rsecon23.society-rse.org/) on **Wednes
 
 ## Session Report
 
-A report on the BoF session will be available soon
+* [Blog post on the BoF session](https://society-rse.whitefuse.net/articles/hpc-birds-of-a-feather-at-rsecon23)
 
 ## Slides
 
