@@ -1,6 +1,6 @@
 # HPCRSE@RSECon24 Birds of a Feather
 
-Taking place at [RSECon24, Newcastle](https://rsecon24.society-rse.org/) on **THursday, Septemeber 5th, 09:30 - 12:30**
+Taking place at [RSECon24, Newcastle](https://rsecon24.society-rse.org/) on **Thursday, Septemeber 5th, 09:30 - 12:30**
 
 - [Session description in RSECon24 programme](https://virtual.oxfordabstracts.com/#/event/49081/submission/43)
 
