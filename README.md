@@ -2,7 +2,7 @@
 
 Taking place at [RSECon24, Newcastle](https://rsecon24.society-rse.org/) on **THursday, Septemeber 5th, 09:30 - 12:30**
 
-[https://virtual.oxfordabstracts.com/#/event/49081/submission/43](https://virtual.oxfordabstracts.com/#/event/49081/submission/43)
+- [Session description in RSECon24 programme](https://virtual.oxfordabstracts.com/#/event/49081/submission/43)
 
 ## Session description
 
@@ -40,7 +40,7 @@ Outcome notification: Thu 1 Aug 2024
 
 We are now accepting submissions for 10 minute presentations:
 
-- Online submission form: [https://forms.gle/MpaqmtAaB5WDBj6Z6]
+- [Online submission form](https://forms.gle/MpaqmtAaB5WDBj6Z6)
 
 There are two sessions within the BoF: technical/exascale and training/community but we welcome submissions on any topic of interest to the HPC RSE community. Please select the most appropriate session in the submission form.
 
