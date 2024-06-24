@@ -1,27 +1,8 @@
 # HPCRSE@RSECon24 Birds of a Feather
 
-Taking place at [RSECon24, Newcastle ](https://rsecon24.society-rse.org/) on **THursday, Septemeber 5th, 09:30 - 12:30**
+Taking place at [RSECon24, Newcastle](https://rsecon24.society-rse.org/) on **THursday, Septemeber 5th, 09:30 - 12:30**
 
 [https://virtual.oxfordabstracts.com/#/event/49081/submission/43](https://virtual.oxfordabstracts.com/#/event/49081/submission/43)
-
-## Submit presentation proposals
-
-Submission deadline: 1600 BST, Tue 16 July 2024
-Outcome notification: Thu 1 Aug 2024
-
-We are now accepting submissions for 10 minute presentations:
-
-- Online submission form: https://forms.gle/MpaqmtAaB5WDBj6Z6
-
-There are two sessions within the BoF: technical/exascale and training/community but we welcome submissions on any topic of interest to the HPC RSE community. Please select the most appropriate session in the submission form.
-
-Presenters can present in person or online. If presenting in person, you must be registered for in-person attendence at RSECon24. If presenting online, you must be registered for online attendance at RSECon24.
-
-Submissions will be assessed by the organising committee on the quality of the abstract and the broadness of the appeal to the HPC RSE community.
-
-Personal details collected through the submission form will only be used for the purposes of organising this event. For unsuccessful proposals, personal details will be deleted after decision notifications have been sent out. For successful proposals, contact details will be deleted after the event has taken place.
-
-If you have any questions about the event or submission process, please contact Andy Turner (a.turner@epcc.ed.ac.uk) and Marion Weinzierl (mw925@cam.ac.uk).
 
 ## Session description
 
@@ -39,7 +20,7 @@ No prior knowledge is required to engage with the BoF. The topics of the BoF are
 
 Outcomes for BoF attendees: to understand the current state of play in the field of HPC, particularly in the UK; to gain current information on the state of HPC services and any plans for the future; to better understand the topics of interest across the HPC community and the wider community’s opinions on these topics; to build personal and professional networks; to gain better access to peer support, especially for RSEs new to HPC. Outcomes from the BoF: blog article describing the BoF and discussions that took place; online versions of presentation slides from the BoF; online versions of HPC service update posters from the BoF; concrete plans for future HPC RSE events; additional volunteers to help organise and guide the community and plan future events; timeline to establish the HPC RSE community as an official SIG within the Society of Research Software Engineering.
 
-## Draft schedule
+## Draft schedule
 
 |   Timing   |   Title   |   Description   |
 | --- | --- | --- |
@@ -51,3 +32,22 @@ Outcomes for BoF attendees: to understand the current state of play in the field
 |   1100-1130 (30 min)   |   Community/training presentations   |   2 short presentations (10 min + 5 min questions)   |
 |   1130-1200 (30 min)   |   Community/training panel   |   Invited panel. Questions from attendees.    |
 |   1200-1230 (30 min)   |   Wrap up   |   Includes summary of plans/activities for next 12 months   |
+
+## Submit presentation proposals
+
+Submission deadline: 1600 BST, Tue 16 July 2024
+Outcome notification: Thu 1 Aug 2024
+
+We are now accepting submissions for 10 minute presentations:
+
+- Online submission form: [https://forms.gle/MpaqmtAaB5WDBj6Z6]
+
+There are two sessions within the BoF: technical/exascale and training/community but we welcome submissions on any topic of interest to the HPC RSE community. Please select the most appropriate session in the submission form.
+
+Presenters can present in person or online. If presenting in person, you must be registered for in-person attendence at RSECon24. If presenting online, you must be registered for online attendance at RSECon24.
+
+Submissions will be assessed by the organising committee on the quality of the abstract and the broadness of the appeal to the HPC RSE community.
+
+Personal details collected through the submission form will only be used for the purposes of organising this event. For unsuccessful proposals, personal details will be deleted after decision notifications have been sent out. For successful proposals, contact details will be deleted after the event has taken place.
+
+If you have any questions about the event or submission process, please contact Andy Turner (a.turner@epcc.ed.ac.uk) and Marion Weinzierl (mw925@cam.ac.uk).
