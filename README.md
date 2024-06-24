@@ -1,45 +1,34 @@
 # RSECon23 Birds of a Feather - HPC
 
-Took place at [RSECon23, Swansea](https://rsecon23.society-rse.org/) on **Wednesday, Septemeber 6th, 09:00 - 12:30**
+Took place at [RSECon24, Newcastle ](https://rsecon24.society-rse.org/) on **THursday, Septemeber 5th, 09:30 - 12:30**
 
-[https://virtual.oxfordabstracts.com/#/event/4430/program?session=76243&s=2514](https://virtual.oxfordabstracts.com/#/event/4430/program?session=76243&s=2514)
-
-## Session Report
-
-* [Blog post on the BoF session](https://society-rse.whitefuse.net/articles/hpc-birds-of-a-feather-at-rsecon23)
-
-## Slides
-
-Technical presentations:
-
-* [UK Exascale: Mark Parsons, UKRI/EPCC]({{ site.baseurl }}/pdf/UKExascaleProjectRSECon_Public_2023096.pdf)
-* [Update from Cambridge: Chris Edsall, Cambridge University]({{ site.baseurl }}/pdf/ucam-Edsall-BoF-Lightning.pdf)
-* [Engineering reproducible HPC code: Ed Hone, University of Exeter]({{ site.baseurl }}/pdf/RSECon23-HPCReproducability.pdf)
-* [CYLC 8: An Analysis View: Ryan Boult, UK Met Office]({{ site.baseurl }}/pdf/Cylc_RSEcon_2023_presentation.pdf)
-
-Training presentations:
-
-* [UNIVERSE-HPC: Understanding and Nurturing an Integrated Vision for Education in RSE and HPC, Neil Chue-Hong, SSI]({{ site.baseurl }}/pdf/UniverseHPCOverview-RSECon23.pdf)
-* [Durham Performance Analysis Workshop Series, Marion Weinzierl, Cambridge University]({{ site.baseurl }}/pdf/PerformanceAnalysisWorkshop_5min.pdf)
-
-Community presentations:
-
-* [Software Engineering for Computational Science and Engineering (SWE-CSE) BoF at SC and ISC, Claire Wyatt, JSC]({{ site.baseurl }}/pdf/ClaireWyatt_HPC_BoF.pdf)
-* [RSE-HPC workshops at SC'xy, Daniel Katz, University of Illinois Urbana Champaign]({{ site.baseurl }}/pdf/2023-09-06_RSECon23_lightning_talk_HPC-RSE_workshops_at_SCxy.pdf)
-* [HPC-SIG and HPC RSE Champions, Andy Turner, EPCC]({{ site.baseurl }}/pdf/2023-09-06_HPC-SIG_Champions.pdf)
+[https://virtual.oxfordabstracts.com/#/event/49081/submission/43](https://virtual.oxfordabstracts.com/#/event/49081/submission/43)
 
 ## Session description
 
-RSEs are critical to the effective use of HPC facilities by researchers - they cover the whole range of roles from RSEs embedded in research groups who support the development of software used on HPC facilities to RSEs associated with HPC facility support teams. In this session we will bring together RSEs that are involved with HPC to share knowledge about the current "state-of-the- nation" for RSEs and HPC, discuss topics of interest in the community and find ways to improve the organisation of the RSE HPC community for the future. The session will start with a series of 4-6 lightning presentations on key areas of current interest for the RSE HPC community. This will be followed by group discussion on the topics of interest to the attendees. Finally, all attendees will work together to produce an outline plan for ways to improve the organisation of the RSE HPC community. Based on discussions with colleagues across the HPC RSE community, we have identified the following topics to be covered in the lightning talks:
+This event brings together the community of RSEs working in High Performance Computing (HPC). The community covers a range of RSE roles from development of research software to support of HPC facilities, providing support to researchers. Our objectives are to provide peer support across the RSE HPC community, share experience and best practice, foster an open, self-sustaining community and collaborate with other, associated communities and organisations.
 
-* UK Exascale - following the recent UK Government announcement, where do RSEs fit and what are their key roles in making UK exascale as beneficial as possible for research?
-* Community benchmarking - how can the community build on the work done by the ExCALIBUR benchmarking team to reflect the requirements of HPC for UK research?
-* Future technologies - how can RSEs support researchers in preparing applications for the next generation of HPC hardware?
-* RSE HPC training - how can RSEs access training to improve their HPC skills and what training is required by the community?
+The aims of the event are to share knowledge about the current “state-of-the-nation” in HPC, discuss topics of interest in the community, understand community priorities and needs, create a forum for network building and provide peer support to HPC RSEs: particularly those new to the HPC area and those working without support from a large RSE group.
 
-In order to improve the organisation of the UK RSE HPC community (and its links worldwide) a number of actions need to be undertaken that can be bootstrapped by this session. In particular, working to identify existing UK RSE HPC groupings, formulating plans for future UK RSE HPC events (including topics of interest and submissions to future conferences) and identifying options for enabling a network of expertise in the RSE HPC area.
+The event is split into two sessions: technical and training/community, with a break in between where HPC service providers can display small posters with updates on their services. Each session starts with two short presentations for setting the scene, followed by a panel discussion. In the technical session, HPC centres are invited to give lightning updates to support their poster submissions. Based on discussions in previous events, we have identified the some topics of particular interest, but the discussion will be driven by the attendees on the day (both online and in person). Proposed technical topics: technological developments (e.g. new accelerator technology, exascale, new service), parallel programming approaches, AI/ML. Proposed training/community topics: training for RSEs, HPC RSE career progression/skills, community organisation and sustainability.
 
-The outcomes of the session will be:
+### Prerequisites
 
-* A blog post or report on the BoF.
-* A draft plan for improving the organisation of the UK RSE HPC community.
+No prior knowledge is required to engage with the BoF. The topics of the BoF are of broad interest across HPC and related disciplines so should be applicable to attendees from academia, industry, the public and third sectors.
+
+### Outcomes
+
+Outcomes for BoF attendees: to understand the current state of play in the field of HPC, particularly in the UK; to gain current information on the state of HPC services and any plans for the future; to better understand the topics of interest across the HPC community and the wider community’s opinions on these topics; to build personal and professional networks; to gain better access to peer support, especially for RSEs new to HPC. Outcomes from the BoF: blog article describing the BoF and discussions that took place; online versions of presentation slides from the BoF; online versions of HPC service update posters from the BoF; concrete plans for future HPC RSE events; additional volunteers to help organise and guide the community and plan future events; timeline to establish the HPC RSE community as an official SIG within the Society of Research Software Engineering.
+
+### Draft schedule
+
+|   Timing   |   Title   |   Description   |
+| --- | --- | --- |
+|   0930-0935 (5 min)   |   Welcome   |     |
+|   0935-1005 (30 min)   |   Technical/exascale presentations   |   2 short presentations (10 min + 5 min questions)   |
+|   1005-1035 (30 min)   |   Technical/exascale panel   |   Invited panel. Questions from attendees.   |
+|   1035-1045 (10 min)   |   HPC Service lightning updates   |   Single slide, 1 min presentations ahead of poster session during break    |
+|   Break   |   Posters   |   Small (A3) posters displayed with updates on HPC services   |
+|   1100-1130 (30 min)   |   Community/training presentations   |   2 short presentations (10 min + 5 min questions)   |
+|   1130-1200 (30 min)   |   Community/training panel   |   Invited panel. Questions from attendees.    |
+|   1200-1230 (30 min)   |   Wrap up   |   Includes summary of plans/activities for next 12 months   |
