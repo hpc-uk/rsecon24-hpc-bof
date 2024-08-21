@@ -38,7 +38,7 @@ Outcomes for BoF attendees: to understand the current state of play in the field
 Submission deadline: 1600 BST, Tue 16 July 2024
 Outcome notification: Thu 1 Aug 2024
 
-We are now accepting submissions for 10 minute presentations:
+Submission deadline has now passed
 
 - [Online submission form](https://forms.gle/MpaqmtAaB5WDBj6Z6)
 
