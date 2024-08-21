@@ -25,11 +25,11 @@ Outcomes for BoF attendees: to understand the current state of play in the field
 |   Timing   |   Title   |   Description   |
 | --- | --- | --- |
 |   0930-0935 (5 min)   |   Welcome   |     |
-|   0935-1005 (30 min)   |   Technical/exascale presentations   |   2 short presentations (10 min + 5 min questions)   |
+|   0935-1005 (30 min)   |   Technical/exascale presentations   |   Modernisation of xRAGE (Charles Ferembaugh, LANL); mdb parallel debugger (Tom Meltzer, University of Cambridge)  |
 |   1005-1035 (30 min)   |   Technical/exascale panel   |   Invited panel. Questions from attendees.   |
 |   1035-1045 (10 min)   |   HPC Service lightning updates   |   Single slide, 1 min presentations ahead of poster session during break    |
 |   Break   |   Posters   |   Small (A3) posters displayed with updates on HPC services   |
-|   1100-1130 (30 min)   |   Community/training presentations   |   2 short presentations (10 min + 5 min questions)   |
+|   1100-1130 (30 min)   |   Community/training presentations   |  PyProfQueue (Marcus Keil, UCL), Advanced Training Needs for RSEs (Samantha Ahern, UCL)   |
 |   1130-1200 (30 min)   |   Community/training panel   |   Invited panel. Questions from attendees.    |
 |   1200-1230 (30 min)   |   Wrap up   |   Includes summary of plans/activities for next 12 months   |
 
