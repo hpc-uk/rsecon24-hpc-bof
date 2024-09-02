@@ -26,7 +26,7 @@ Outcomes for BoF attendees: to understand the current state of play in the field
 | --- | --- | --- |
 |   0930-0935 (5 min)   |   Welcome   |     |
 |   0935-1005 (30 min)   |   Technical presentations   |   Modernisation of xRAGE (Charles Ferembaugh, LANL); mdb parallel debugger (Tom Meltzer, University of Cambridge)  |
-|   1005-1035 (30 min)   |   Technical panel   |  Nick Brown (EPCC/ExCALIBUR), Charles Ferembaugh, (LANL), Kacper Kornet (DiRAC/University of Cambridge), Tom Meltzer (University of Cambridge)   |
+|   1005-1035 (30 min)   |   Technical panel   |  Nick Brown (EPCC/ExCALIBUR), Charles Ferembaugh, (LANL), Miren Radia (DiRAC/University of Cambridge), Tom Meltzer (University of Cambridge)   |
 |   1035-1045 (10 min)   |   HPC Service lightning updates   |   Single slide, 2 min presentations ahead of poster session during break    |
 |   Break   |   Posters   |   Small (A3) posters displayed with updates on HPC services   |
 |   1100-1130 (30 min)   |   Community/training presentations   |  PyProfQueue (Marcus Keil, UCL), Advanced Training Needs for RSEs (Samantha Ahern, UCL)   |
